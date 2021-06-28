@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News APP</string>
+    <string name="news_api_key">cc154c1e32df4e64a61fba443a4dd332</string>
+    <string name="app_theme_id">theme_id</string>
+    <string name="actual_theme">actualTheme</string>
+    <string name="theme_black">theme_black</string>
+    <string name="theme_white">theme_white</string>
+</resources>
